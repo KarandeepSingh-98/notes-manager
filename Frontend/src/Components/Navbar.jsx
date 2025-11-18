@@ -8,7 +8,7 @@ function Navbar() {
     <>
       <div className="bg-gray-900 text-white px-4 py-3 flex flex-col sm:flex-row sm:items-center sm:justify-between shadow-md">
         <div className="text-xl font-semibold mb-2 sm:mb-0">
-          Notes Manager
+          NotoVerse
         </div>
         <div className="flex flex-wrap gap-4 text-sm sm:text-base">
           <Link
