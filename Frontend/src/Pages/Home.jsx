@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import {useNavigate} from 'react-router-dom'
 
 export default function Home() {
-  const [message] = useState('Welcome to NotoVerse')
+  const [message] = useState('Welcome to NoteVerse')
   const navigate = useNavigate()
 
   const stats = [
